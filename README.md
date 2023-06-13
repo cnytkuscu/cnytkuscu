@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect via : 
   <a href="https://www.linkedin.com/in/cnytkuscu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5">
-  <a href="https://discord.gg/geJF43E"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Join My Discord&color=36393f&style=flat" alt="Discord"></a>
+  <a href="https://discord.gg/9XJ72Qk"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Join My Discord&color=36393f&style=flat" alt="Discord"></a>
   <a href="https://twitter.com/CuneytTheGreat"><img src="https://img.shields.io/badge/Twitter-1DA1F2">
   <a href="https://www.instagram.com/cnytkuscu/"><img src="https://img.shields.io/badge/Instagram-E4405F"> 
   <a href="https://t.me/CuneytKuscu"><img src="https://img.shields.io/badge/Telegram-Online-green.svg">      
