@@ -13,15 +13,6 @@
   <a href="https://t.me/CuneytKuscu"><img src="https://img.shields.io/badge/Telegram-Online-green.svg">      
     
 </h3>
-  
-<img align="left" height="50" src="https://armienn.github.io/pokemon/static/sugimori/94.png">
-<img align="left" height="50" src="https://armienn.github.io/pokemon/static/sugimori/3.png">
-<img align="left" height="50" src="https://armienn.github.io/pokemon/static/sugimori/110.png">
-<img align="left" height="50" src="https://armienn.github.io/pokemon/static/sugimori/130.png">
-<img align="left" height="50" src="https://armienn.github.io/pokemon/static/sugimori/150.png">
-<img align="left" height="50" src="https://armienn.github.io/pokemon/static/sugimori/208.png">
-<img align="left" height="50" src="https://armienn.github.io/pokemon/static/sugimori/376.png">
-<img align="left" height="50" src="https://armienn.github.io/pokemon/static/sugimori/789.png">
 </br></br> 
 
 <h3 align="left">Languages and Tools:</h3>
