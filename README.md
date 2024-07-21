@@ -22,7 +22,7 @@
   </br></br>
   <img src="https://img.shields.io/badge/Windows-0078D6">
   <img src="https://img.shields.io/badge/C%23-239120">
-  <a href="https://discord.gg/geJF43E"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Join My Discord&color=36393f&style=flat" alt="Discord"></a>
+  <a href="https://discord.gg/r43NE6V"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Join My Discord&color=36393f&style=flat" alt="Discord"></a>
  
 ![General badge](https://img.shields.io/badge/BATTLE.NET-Tyenuc2818-green.svg)
  
