@@ -1,6 +1,6 @@
  
 <h1 align="center">Hello 🙋‍♂️, I'm Cuneyt</h1>
-<h3 align="center">As you might understand, I am Full-time Software Engineer and besides that I am hardcore Diablo player, anime watcher, poke catcher and currently learning 日本 :></h3>
+<h3 align="center">A Fulltime Software Engineer with the knowledge of 3.5 years besides that I am hardcore Diablo player, anime watcher, poke catcher and currently learning 日本 :></h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cnytkuscu&label=Profile%20views&color=blue&style=flat" alt="cnytkuscu" /> </p>
  
